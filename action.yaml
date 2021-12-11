@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name:  Githu-Actions
+author: steveandreson
+description: Deploy docker using the github action.
 inputs:
   message:
     description: 'message you want to tweet'
